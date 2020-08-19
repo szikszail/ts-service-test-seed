@@ -1,4 +1,4 @@
-import { allureReporter } from "../utils/report"
+import { allureReporter } from '../utils/report'
 
 describe('Initial', () => {
     beforeEach(() => {

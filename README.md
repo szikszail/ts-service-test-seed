@@ -1,10 +1,9 @@
-# LM TS API testing PoC
+# ts-service-test-seed
 
 ## Prerequisites
 
 1. NodeJS LTS (12+)
 1. Yarn (`npm i -g yarn`)
-1. Installed and running [ts-service-test-seed-service](https://github.com/szikszail/ts-service-test-seed-service) service
 
 ## Install
 
